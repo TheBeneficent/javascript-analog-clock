@@ -1,0 +1,14 @@
+svg{
+  width: 25vw;
+  height: 25vw;
+  max-width: 200px;
+  max-height: 200px;
+  min-width: 120px;
+  min-height: 120px;
+
+}
+svg g {
+  transform-origin: center;
+  -moz-transform-origin: center;
+  -webkit-transform-origin: center;
+}
